@@ -8,12 +8,10 @@
 <script>
 import MainBar from "components/content/mainbar/MainBar"
 
-
 export default {
   name: 'App',
   components: {
-    MainBar
-
+    MainBar,
   }
 }
 </script>
